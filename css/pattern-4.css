@@ -31,8 +31,6 @@
 	transform: scale(1);
 	-webkit-transform-origin: center bottom;
 	transform-origin: center bottom;
-	
-	fill: transparent;/*add from pattern.css*/
 }
 
 .polygon--hidden {
